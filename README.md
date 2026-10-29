@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TUANZIDING/radiation-muscle-detective-course/releases/tag/v0.1"><img src="https://img.shields.io/badge/videos-4%20episodes%20%C2%B7%2082%20min-8e3b5a" alt="4 集视频，共约 82 分钟"></a>
+  <a href="videos/"><img src="https://img.shields.io/badge/videos-4%20episodes%20%C2%B7%2082%20min-8e3b5a" alt="4 集视频，共约 82 分钟"></a>
   <a href="references/literature-v0.1.md"><img src="https://img.shields.io/badge/references-56%20entries%20%C2%B7%20DOI%2FPMID%20checked-96704f" alt="56 条参考文献"></a>
   <a href="#evidence"><img src="https://img.shields.io/badge/evidence-FACT%20%C2%B7%20ASSOCIATION%20%C2%B7%20HYPOTHESIS-1f5f63" alt="三级证据标签"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/content-CC%20BY%204.0%20%C2%B7%20code%20MIT-637568" alt="内容 CC BY 4.0，代码 MIT"></a>
@@ -39,14 +39,14 @@
 
 一根肌纤维被射线击中却活了下来，可多年后整块肌肉还是变细、变硬。凶手是谁？每集追一条线索，最后在第 4 集做结案陈词。
 
-| 集 | 标题 | 时长 | 追的线索 | 学习单 | 文稿 |
-| --- | --- | --- | --- | --- | --- |
-| 1 | **子弹与蓝图** · The Bullet and the Blueprint | 18:28 | 射线怎样损伤 DNA；NHEJ 与 HR；修复 / 死亡 / 衰老三种命运；成熟肌纤维为何扛得住 | [学习单](episodes/ep1-the-bullet-and-the-blueprint/study-guide-v0.1.md) | [文稿](episodes/ep1-the-bullet-and-the-blueprint/transcript-v0.1.md) |
-| 2 | **守护者** · The Guardians | 20:28 | 卫星细胞的发现（Mauro 1961）、必要性证明（2011）、静息与隐藏储备、儿童肌肉的脆弱 | [学习单](episodes/ep2-the-guardians/study-guide-v0.1.md) | [文稿](episodes/ep2-the-guardians/transcript-v0.1.md) |
-| 3 | **邻居变脸** · The Neighbors Turn | 21:27 | FAP 的两副面孔、巨噬细胞时序、TGF-β 之锁、血管与线粒体、晚期纤维化工作模型 | [学习单](episodes/ep3-the-neighbors-turn/study-guide-v0.1.md) | [文稿](episodes/ep3-the-neighbors-turn/transcript-v0.1.md) |
-| 4 | **从实验台到病床** · From Bench to Bedside | 21:36 | 人体证据、模型与剂量（BED）、矛盾线索的调和、干预尝试、五个悬案 | [学习单](episodes/ep4-from-bench-to-bedside/study-guide-v0.1.md) | [文稿](episodes/ep4-from-bench-to-bedside/transcript-v0.1.md) |
+| 集 | 标题 | 时长 | 追的线索 | 视频 | 学习单 | 文稿 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | **子弹与蓝图** · The Bullet and the Blueprint | 18:28 | 射线怎样损伤 DNA；NHEJ 与 HR；修复 / 死亡 / 衰老三种命运；成熟肌纤维为何扛得住 | [▶ 观看](videos/after-the-beam-ep1-v0.2-small.mp4) | [学习单](episodes/ep1-the-bullet-and-the-blueprint/study-guide-v0.1.md) | [文稿](episodes/ep1-the-bullet-and-the-blueprint/transcript-v0.1.md) |
+| 2 | **守护者** · The Guardians | 20:28 | 卫星细胞的发现（Mauro 1961）、必要性证明（2011）、静息与隐藏储备、儿童肌肉的脆弱 | [▶ 观看](videos/after-the-beam-ep2-v0.1-small.mp4) | [学习单](episodes/ep2-the-guardians/study-guide-v0.1.md) | [文稿](episodes/ep2-the-guardians/transcript-v0.1.md) |
+| 3 | **邻居变脸** · The Neighbors Turn | 21:27 | FAP 的两副面孔、巨噬细胞时序、TGF-β 之锁、血管与线粒体、晚期纤维化工作模型 | [▶ 观看](videos/after-the-beam-ep3-v0.1-small.mp4) | [学习单](episodes/ep3-the-neighbors-turn/study-guide-v0.1.md) | [文稿](episodes/ep3-the-neighbors-turn/transcript-v0.1.md) |
+| 4 | **从实验台到病床** · From Bench to Bedside | 21:36 | 人体证据、模型与剂量（BED）、矛盾线索的调和、干预尝试、五个悬案 | [▶ 观看](videos/after-the-beam-ep4-v0.1-small.mp4) | [学习单](episodes/ep4-from-bench-to-bedside/study-guide-v0.1.md) | [文稿](episodes/ep4-from-bench-to-bedside/transcript-v0.1.md) |
 
-**▶ 观看**：720p 视频（每集 ≤40 MB）在 [Releases v0.1](https://github.com/TUANZIDING/radiation-muscle-detective-course/releases/tag/v0.1) 下载；双语字幕在 [`subtitles/`](subtitles/)，可在播放器里单独加载。
+**▶ 观看**：720p 视频（每集 ≤40 MB）在 [`videos/`](videos/) 文件夹，点进文件后选 Download / View raw 即可播放；双语字幕在 [`subtitles/`](subtitles/)，可在播放器里单独加载。
 
 <p align="center">
   <img src="docs/images/detective-bench-v0.1.jpg" width="88%" alt="深夜实验台：显微镜、台灯、贴满便签的论文、放大镜压在一张肌肉显微照片上（AI 生成示意图）">
@@ -142,12 +142,13 @@
 episodes/                  每集一个文件夹：study-guide（学习单）+ transcript（双语逐句文稿，含证据标签与参考）
 references/                literature-v0.1.md（核心 40 + 补充 16 篇，DOI/PMID 已核）· series-outline-v0.1.md
 subtitles/                 四集上英下中 SRT 字幕
+videos/                    四集 720p 成片（≤40 MB/集）
 tools/                     制作管线：旁白数据、配音、钢琴配乐、机制图、逐帧渲染、字幕与文档生成
 publish/                   微信视频号文案
 docs/images/               主页图片（AI 示意图、成片截图、开放授权组织照片）
 ```
 
-视频文件不放进 git，统一挂在 [Releases](https://github.com/TUANZIDING/radiation-muscle-detective-course/releases)。
+`videos/` 只放 720p 压缩版（每集 ≤40 MB）；配音、配乐和 1080p 原片不进 git。
 
 ---
 

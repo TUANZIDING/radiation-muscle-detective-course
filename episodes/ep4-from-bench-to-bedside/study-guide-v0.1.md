@@ -91,4 +91,4 @@ OR 1.84；横断面关联，不能证明因果（包括 mtDNA 拷贝数）。
 
 - [双语逐句文稿](transcript-v0.1.md)
 - [双语字幕 SRT](../../subtitles/ep4-bilingual-v0.1.srt)
-- 视频：见仓库 [Releases v0.1](https://github.com/TUANZIDING/radiation-muscle-detective-course/releases/tag/v0.1)（`after-the-beam-ep4-v0.1-small.mp4`）
+- [观看本集视频（720p）](../../videos/after-the-beam-ep4-v0.1-small.mp4)

@@ -90,4 +90,4 @@ NHEJ 随时可用、快但可能留错；HR 需要姐妹染色单体做模板，
 
 - [双语逐句文稿](transcript-v0.1.md)
 - [双语字幕 SRT](../../subtitles/ep1-bilingual-v0.1.srt)
-- 视频：见仓库 [Releases v0.1](https://github.com/TUANZIDING/radiation-muscle-detective-course/releases/tag/v0.1)（`after-the-beam-ep1-v0.2-small.mp4`）
+- [观看本集视频（720p）](../../videos/after-the-beam-ep1-v0.2-small.mp4)

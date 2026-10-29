@@ -91,4 +91,4 @@ Pax7 驱动白喉毒素受体等方法特异清除 PAX7+ 细胞，再损伤肌�
 
 - [双语逐句文稿](transcript-v0.1.md)
 - [双语字幕 SRT](../../subtitles/ep2-bilingual-v0.1.srt)
-- 视频：见仓库 [Releases v0.1](https://github.com/TUANZIDING/radiation-muscle-detective-course/releases/tag/v0.1)（`after-the-beam-ep2-v0.1-small.mp4`）
+- [观看本集视频（720p）](../../videos/after-the-beam-ep2-v0.1-small.mp4)

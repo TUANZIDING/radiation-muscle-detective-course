@@ -122,7 +122,7 @@ for ep, f, slug, video in EPS:
           "\n## 相关文件\n",
           f"- [双语逐句文稿](transcript-v0.1.md)",
           f"- [双语字幕 SRT](../../subtitles/ep{ep}-bilingual-v0.1.srt)",
-          f"- 视频：见仓库 [Releases v0.1](https://github.com/TUANZIDING/radiation-muscle-detective-course/releases/tag/v0.1)（`{video}`）"]
+          f"- [观看本集视频（720p）](../../videos/{video})"]
     open(os.path.join(d, 'study-guide-v0.1.md'), 'w').write("\n".join(S) + "\n")
     index.append((ep, m.TITLE_EN, m.TITLE_ZH, slug, dur(ep), words, dict(tags), len(refs)))
     print(ep, m.TITLE_EN, words, dict(tags), len(refs))
