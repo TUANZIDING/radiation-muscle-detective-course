@@ -1,0 +1,65 @@
+[
+ [
+  1,
+  "The Bullet and the Blueprint",
+  "子弹与蓝图",
+  "ep1-the-bullet-and-the-blueprint",
+  1097.568,
+  2618,
+  {
+   "": 19,
+   "FACT": 127,
+   "BENCH": 18,
+   "HYPOTHESIS": 12
+  },
+  12
+ ],
+ [
+  2,
+  "The Guardians",
+  "守护者",
+  "ep2-the-guardians",
+  1217.919,
+  2666,
+  {
+   "": 19,
+   "FACT": 109,
+   "BENCH": 19,
+   "HYPOTHESIS": 5,
+   "ASSOCIATION": 3
+  },
+  18
+ ],
+ [
+  3,
+  "The Neighbors Turn",
+  "邻居变脸",
+  "ep3-the-neighbors-turn",
+  1276.51,
+  2672,
+  {
+   "": 24,
+   "FACT": 95,
+   "BENCH": 15,
+   "HYPOTHESIS": 16,
+   "ASSOCIATION": 5
+  },
+  17
+ ],
+ [
+  4,
+  "From Bench to Bedside",
+  "从实验台到病床",
+  "ep4-from-bench-to-bedside",
+  1285.578,
+  2694,
+  {
+   "": 25,
+   "ASSOCIATION": 28,
+   "FACT": 71,
+   "BENCH": 17,
+   "HYPOTHESIS": 20
+  },
+  25
+ ]
+]
